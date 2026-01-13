@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aʀɪғ Rᴀɴᴀ",
+  "description": "A high-performance AI agent dashboard for managing automated phone calls and SMS replies, designed for business monetization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
